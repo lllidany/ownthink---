@@ -1,10 +1,11 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 '''
  * Name        : kgview.py - 知识图谱api请求
  * Author      : Yener(Zheng Wenyu) <yener@ownthink.com>
  * Version     : 1.0
  * Description : 从OwnThink知识图谱中获取数据，利用D3.js实现知识图谱的可视化。
  	数据获取https://api.ownthink.com/kg/knowledge?entity=刘德华
+更改：tt
 '''
 import os
 import subprocess
